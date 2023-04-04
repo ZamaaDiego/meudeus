@@ -104,6 +104,8 @@ document.getElementById('basein').style.display = 'block';
     document.getElementById("btn1").style.display = 'block';
 document.getElementById("btn2").style.display = 'block';
 }else if(info=="Rectangulo"){
+      document.getElementById("ladolabel").style.display = 'none';
+document.getElementById("lado").style.display = 'none';
     document.getElementById('formuc').style.display = 'none';
 document.getElementById('formucp').style.display = 'none';
 document.getElementById('formut').style.display = 'none';
@@ -133,6 +135,8 @@ document.getElementById('basein').style.display = 'block';
     document.getElementById("btn1").style.display = 'block';
 document.getElementById("btn2").style.display = 'block';
 }else if(info=="Circulo"){
+      document.getElementById("ladolabel").style.display = 'none';
+document.getElementById("lado").style.display = 'none';
     document.getElementById('formuc').style.display = 'none';
 document.getElementById('formucp').style.display = 'none';
 document.getElementById('formut').style.display = 'none';
