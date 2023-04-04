@@ -1,4 +1,4 @@
-@media (min-width: 769px){
+
 
 .nuevo{
     color: gold;
@@ -39,7 +39,7 @@ height: 250px;
    color: black; 
    font-size: 150%;
 }
-}
+
 @media (max-width: 768px){
 
 .fiel{
