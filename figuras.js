@@ -100,7 +100,7 @@ document.getElementById('basein').style.display = 'block';
     document.getElementById("resu").innerHTML = null;
     document.getElementById("kk2").innerHTML = null;
     document.getElementById("resu2").innerHTML = null;
-    document.getElementById("img").src="tri.jfif";
+    document.getElementById("img").src="tri.png";
     document.getElementById("btn1").style.display = 'block';
 document.getElementById("btn2").style.display = 'block';
 }else if(info=="Rectangulo"){
